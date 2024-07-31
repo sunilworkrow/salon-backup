@@ -1,0 +1,57 @@
+.categorie-pera {
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0px 2px 6px 0px #00000024;
+    padding: 0px 0px 23px;
+}
+.categories-heading{
+    font-size:24px;
+    margin-bottom: 0px;
+}
+
+.subcategory-pera {
+    background: #fff4f4bf;
+    margin: 21px 18px 0px;
+    padding: 11px 3px;
+    border-radius: 11px;
+    padding: 17px 19px;
+    box-shadow: 0px 0px 3px 0px #00000012;
+}
+
+.subcategory-box {
+    border-bottom: 1px solid #c3c3c3;
+    padding: 16px 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subcategory-box h4{
+    font-size: 19px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.add-button {
+    background: #000000;
+    color: white;
+    padding: 5px 24px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.search-bar {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
